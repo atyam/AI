@@ -1,0 +1,21 @@
+# 1. setup env :conda create -p venv python==3.10 -y
+# 2. activate env: conda activate venv/
+# 3. install packages: pip install -r requirement.txt
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+bs4
+arxiv==1.4.8
+#python -m pip install --upgrade "arxiv>=2,<3"
+PyMuPDF
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence_transformers
+langchain_huggingface
+langchain-ollama
+faiss-cpu
+langchain-openai
